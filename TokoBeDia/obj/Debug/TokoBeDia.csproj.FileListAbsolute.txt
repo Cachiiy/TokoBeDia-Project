@@ -1,0 +1,512 @@
+C:\HERY\Binus\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\TokoBeDia.dll.config
+C:\HERY\Binus\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\TokoBeDia.dll
+C:\HERY\Binus\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\TokoBeDia.pdb
+C:\HERY\Binus\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\csc.exe
+C:\HERY\Binus\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\csc.exe.config
+C:\HERY\Binus\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\csc.rsp
+C:\HERY\Binus\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\csi.exe
+C:\HERY\Binus\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\csi.exe.config
+C:\HERY\Binus\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\csi.rsp
+C:\HERY\Binus\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\HERY\Binus\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\HERY\Binus\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\HERY\Binus\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\HERY\Binus\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\HERY\Binus\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\HERY\Binus\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\HERY\Binus\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\HERY\Binus\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\HERY\Binus\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.Managed.Core.targets
+C:\HERY\Binus\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\HERY\Binus\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\HERY\Binus\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.AppContext.dll
+C:\HERY\Binus\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Collections.Immutable.dll
+C:\HERY\Binus\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Console.dll
+C:\HERY\Binus\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\HERY\Binus\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\HERY\Binus\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\HERY\Binus\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Globalization.Calendars.dll
+C:\HERY\Binus\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.IO.Compression.dll
+C:\HERY\Binus\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\HERY\Binus\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.IO.FileSystem.dll
+C:\HERY\Binus\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\HERY\Binus\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Net.Http.dll
+C:\HERY\Binus\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Net.Sockets.dll
+C:\HERY\Binus\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Reflection.Metadata.dll
+C:\HERY\Binus\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\HERY\Binus\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\HERY\Binus\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\HERY\Binus\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\HERY\Binus\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\HERY\Binus\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\HERY\Binus\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\HERY\Binus\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.ValueTuple.dll
+C:\HERY\Binus\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\HERY\Binus\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Xml.XmlDocument.dll
+C:\HERY\Binus\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Xml.XPath.dll
+C:\HERY\Binus\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\HERY\Binus\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\vbc.exe
+C:\HERY\Binus\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\vbc.exe.config
+C:\HERY\Binus\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\vbc.rsp
+C:\HERY\Binus\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\VBCSCompiler.exe
+C:\HERY\Binus\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\VBCSCompiler.exe.config
+C:\HERY\Binus\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\EntityFramework.dll
+C:\HERY\Binus\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\EntityFramework.SqlServer.dll
+C:\HERY\Binus\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\HERY\Binus\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\EntityFramework.xml
+C:\HERY\Binus\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\EntityFramework.SqlServer.xml
+C:\HERY\Binus\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\HERY\Binus\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\obj\Debug\TokoBeDia.csprojAssemblyReference.cache
+C:\HERY\Binus\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\obj\Debug\TokoBeDia.csproj.CopyComplete
+C:\HERY\Binus\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\obj\Debug\TokoBeDia.dll
+C:\HERY\Binus\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\obj\Debug\TokoBeDia.pdb
+C:\HERY\Binus\2201759142\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\TokoBeDia.dll.config
+C:\HERY\Binus\2201759142\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\TokoBeDia.dll
+C:\HERY\Binus\2201759142\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\TokoBeDia.pdb
+C:\HERY\Binus\2201759142\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\csc.exe
+C:\HERY\Binus\2201759142\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\csc.exe.config
+C:\HERY\Binus\2201759142\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\csc.rsp
+C:\HERY\Binus\2201759142\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\csi.exe
+C:\HERY\Binus\2201759142\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\csi.exe.config
+C:\HERY\Binus\2201759142\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\csi.rsp
+C:\HERY\Binus\2201759142\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\HERY\Binus\2201759142\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\HERY\Binus\2201759142\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\HERY\Binus\2201759142\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\HERY\Binus\2201759142\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\HERY\Binus\2201759142\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\HERY\Binus\2201759142\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\HERY\Binus\2201759142\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\HERY\Binus\2201759142\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\HERY\Binus\2201759142\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.Managed.Core.targets
+C:\HERY\Binus\2201759142\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\HERY\Binus\2201759142\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\HERY\Binus\2201759142\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.AppContext.dll
+C:\HERY\Binus\2201759142\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Collections.Immutable.dll
+C:\HERY\Binus\2201759142\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Console.dll
+C:\HERY\Binus\2201759142\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\HERY\Binus\2201759142\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\HERY\Binus\2201759142\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\HERY\Binus\2201759142\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Globalization.Calendars.dll
+C:\HERY\Binus\2201759142\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.IO.Compression.dll
+C:\HERY\Binus\2201759142\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\HERY\Binus\2201759142\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.IO.FileSystem.dll
+C:\HERY\Binus\2201759142\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\HERY\Binus\2201759142\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Net.Http.dll
+C:\HERY\Binus\2201759142\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Net.Sockets.dll
+C:\HERY\Binus\2201759142\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Reflection.Metadata.dll
+C:\HERY\Binus\2201759142\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\HERY\Binus\2201759142\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\HERY\Binus\2201759142\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\HERY\Binus\2201759142\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\HERY\Binus\2201759142\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\HERY\Binus\2201759142\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\HERY\Binus\2201759142\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\HERY\Binus\2201759142\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.ValueTuple.dll
+C:\HERY\Binus\2201759142\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\HERY\Binus\2201759142\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Xml.XmlDocument.dll
+C:\HERY\Binus\2201759142\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Xml.XPath.dll
+C:\HERY\Binus\2201759142\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\HERY\Binus\2201759142\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\vbc.exe
+C:\HERY\Binus\2201759142\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\vbc.exe.config
+C:\HERY\Binus\2201759142\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\vbc.rsp
+C:\HERY\Binus\2201759142\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\VBCSCompiler.exe
+C:\HERY\Binus\2201759142\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\VBCSCompiler.exe.config
+C:\HERY\Binus\2201759142\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\EntityFramework.dll
+C:\HERY\Binus\2201759142\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\EntityFramework.SqlServer.dll
+C:\HERY\Binus\2201759142\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\HERY\Binus\2201759142\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\EntityFramework.xml
+C:\HERY\Binus\2201759142\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\EntityFramework.SqlServer.xml
+C:\HERY\Binus\2201759142\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\HERY\Binus\2201759142\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\obj\Debug\TokoBeDia.csprojAssemblyReference.cache
+C:\HERY\Binus\2201759142\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\obj\Debug\TokoBeDia.csproj.CopyComplete
+C:\HERY\Binus\2201759142\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\obj\Debug\TokoBeDia.dll
+C:\HERY\Binus\2201759142\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\obj\Debug\TokoBeDia.pdb
+C:\HERY\BINUS\PROJECT TOKOBEDIA\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\obj\Debug\TokoBeDia.csprojAssemblyReference.cache
+C:\HERY\BINUS\PROJECT TOKOBEDIA\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\obj\Debug\TokoBeDia.dll
+C:\HERY\BINUS\PROJECT TOKOBEDIA\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\obj\Debug\TokoBeDia.pdb
+C:\HERY\BINUS\PROJECT TOKOBEDIA\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\TokoBeDia.dll.config
+C:\HERY\BINUS\PROJECT TOKOBEDIA\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\TokoBeDia.dll
+C:\HERY\BINUS\PROJECT TOKOBEDIA\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\TokoBeDia.pdb
+C:\HERY\BINUS\PROJECT TOKOBEDIA\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\csc.exe
+C:\HERY\BINUS\PROJECT TOKOBEDIA\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\csc.exe.config
+C:\HERY\BINUS\PROJECT TOKOBEDIA\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\csc.rsp
+C:\HERY\BINUS\PROJECT TOKOBEDIA\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\csi.exe
+C:\HERY\BINUS\PROJECT TOKOBEDIA\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\csi.exe.config
+C:\HERY\BINUS\PROJECT TOKOBEDIA\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\csi.rsp
+C:\HERY\BINUS\PROJECT TOKOBEDIA\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\HERY\BINUS\PROJECT TOKOBEDIA\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\HERY\BINUS\PROJECT TOKOBEDIA\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\HERY\BINUS\PROJECT TOKOBEDIA\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\HERY\BINUS\PROJECT TOKOBEDIA\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\HERY\BINUS\PROJECT TOKOBEDIA\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\HERY\BINUS\PROJECT TOKOBEDIA\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\HERY\BINUS\PROJECT TOKOBEDIA\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\HERY\BINUS\PROJECT TOKOBEDIA\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\HERY\BINUS\PROJECT TOKOBEDIA\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.Managed.Core.targets
+C:\HERY\BINUS\PROJECT TOKOBEDIA\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\HERY\BINUS\PROJECT TOKOBEDIA\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\HERY\BINUS\PROJECT TOKOBEDIA\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.AppContext.dll
+C:\HERY\BINUS\PROJECT TOKOBEDIA\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Collections.Immutable.dll
+C:\HERY\BINUS\PROJECT TOKOBEDIA\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Console.dll
+C:\HERY\BINUS\PROJECT TOKOBEDIA\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\HERY\BINUS\PROJECT TOKOBEDIA\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\HERY\BINUS\PROJECT TOKOBEDIA\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\HERY\BINUS\PROJECT TOKOBEDIA\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Globalization.Calendars.dll
+C:\HERY\BINUS\PROJECT TOKOBEDIA\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.IO.Compression.dll
+C:\HERY\BINUS\PROJECT TOKOBEDIA\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\HERY\BINUS\PROJECT TOKOBEDIA\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.IO.FileSystem.dll
+C:\HERY\BINUS\PROJECT TOKOBEDIA\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\HERY\BINUS\PROJECT TOKOBEDIA\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Net.Http.dll
+C:\HERY\BINUS\PROJECT TOKOBEDIA\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Net.Sockets.dll
+C:\HERY\BINUS\PROJECT TOKOBEDIA\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Reflection.Metadata.dll
+C:\HERY\BINUS\PROJECT TOKOBEDIA\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\HERY\BINUS\PROJECT TOKOBEDIA\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\HERY\BINUS\PROJECT TOKOBEDIA\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\HERY\BINUS\PROJECT TOKOBEDIA\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\HERY\BINUS\PROJECT TOKOBEDIA\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\HERY\BINUS\PROJECT TOKOBEDIA\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\HERY\BINUS\PROJECT TOKOBEDIA\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\HERY\BINUS\PROJECT TOKOBEDIA\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.ValueTuple.dll
+C:\HERY\BINUS\PROJECT TOKOBEDIA\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\HERY\BINUS\PROJECT TOKOBEDIA\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Xml.XmlDocument.dll
+C:\HERY\BINUS\PROJECT TOKOBEDIA\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Xml.XPath.dll
+C:\HERY\BINUS\PROJECT TOKOBEDIA\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\HERY\BINUS\PROJECT TOKOBEDIA\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\vbc.exe
+C:\HERY\BINUS\PROJECT TOKOBEDIA\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\vbc.exe.config
+C:\HERY\BINUS\PROJECT TOKOBEDIA\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\vbc.rsp
+C:\HERY\BINUS\PROJECT TOKOBEDIA\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\VBCSCompiler.exe
+C:\HERY\BINUS\PROJECT TOKOBEDIA\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\VBCSCompiler.exe.config
+C:\HERY\BINUS\PROJECT TOKOBEDIA\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\EntityFramework.dll
+C:\HERY\BINUS\PROJECT TOKOBEDIA\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\EntityFramework.SqlServer.dll
+C:\HERY\BINUS\PROJECT TOKOBEDIA\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\HERY\BINUS\PROJECT TOKOBEDIA\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\EntityFramework.xml
+C:\HERY\BINUS\PROJECT TOKOBEDIA\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\EntityFramework.SqlServer.xml
+C:\HERY\BINUS\PROJECT TOKOBEDIA\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\HERY\BINUS\PROJECT TOKOBEDIA\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\obj\Debug\TokoBeDia.csproj.CopyComplete
+C:\Users\andre\Desktop\TOKOBEDIA(FINAL)(2)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\TokoBeDia.dll.config
+C:\Users\andre\Desktop\TOKOBEDIA(FINAL)(2)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\TokoBeDia.dll
+C:\Users\andre\Desktop\TOKOBEDIA(FINAL)(2)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\TokoBeDia.pdb
+C:\Users\andre\Desktop\TOKOBEDIA(FINAL)(2)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\csc.exe
+C:\Users\andre\Desktop\TOKOBEDIA(FINAL)(2)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\csc.exe.config
+C:\Users\andre\Desktop\TOKOBEDIA(FINAL)(2)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\csc.rsp
+C:\Users\andre\Desktop\TOKOBEDIA(FINAL)(2)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\csi.exe
+C:\Users\andre\Desktop\TOKOBEDIA(FINAL)(2)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\csi.exe.config
+C:\Users\andre\Desktop\TOKOBEDIA(FINAL)(2)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\csi.rsp
+C:\Users\andre\Desktop\TOKOBEDIA(FINAL)(2)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\andre\Desktop\TOKOBEDIA(FINAL)(2)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\andre\Desktop\TOKOBEDIA(FINAL)(2)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\andre\Desktop\TOKOBEDIA(FINAL)(2)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\andre\Desktop\TOKOBEDIA(FINAL)(2)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\andre\Desktop\TOKOBEDIA(FINAL)(2)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\andre\Desktop\TOKOBEDIA(FINAL)(2)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\andre\Desktop\TOKOBEDIA(FINAL)(2)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\andre\Desktop\TOKOBEDIA(FINAL)(2)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\andre\Desktop\TOKOBEDIA(FINAL)(2)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\andre\Desktop\TOKOBEDIA(FINAL)(2)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\andre\Desktop\TOKOBEDIA(FINAL)(2)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\andre\Desktop\TOKOBEDIA(FINAL)(2)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.AppContext.dll
+C:\Users\andre\Desktop\TOKOBEDIA(FINAL)(2)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\andre\Desktop\TOKOBEDIA(FINAL)(2)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Console.dll
+C:\Users\andre\Desktop\TOKOBEDIA(FINAL)(2)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\andre\Desktop\TOKOBEDIA(FINAL)(2)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\andre\Desktop\TOKOBEDIA(FINAL)(2)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\andre\Desktop\TOKOBEDIA(FINAL)(2)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\andre\Desktop\TOKOBEDIA(FINAL)(2)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.IO.Compression.dll
+C:\Users\andre\Desktop\TOKOBEDIA(FINAL)(2)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\andre\Desktop\TOKOBEDIA(FINAL)(2)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\andre\Desktop\TOKOBEDIA(FINAL)(2)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\andre\Desktop\TOKOBEDIA(FINAL)(2)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Net.Http.dll
+C:\Users\andre\Desktop\TOKOBEDIA(FINAL)(2)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Net.Sockets.dll
+C:\Users\andre\Desktop\TOKOBEDIA(FINAL)(2)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\andre\Desktop\TOKOBEDIA(FINAL)(2)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\andre\Desktop\TOKOBEDIA(FINAL)(2)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\andre\Desktop\TOKOBEDIA(FINAL)(2)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\andre\Desktop\TOKOBEDIA(FINAL)(2)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\andre\Desktop\TOKOBEDIA(FINAL)(2)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\andre\Desktop\TOKOBEDIA(FINAL)(2)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\andre\Desktop\TOKOBEDIA(FINAL)(2)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\andre\Desktop\TOKOBEDIA(FINAL)(2)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.ValueTuple.dll
+C:\Users\andre\Desktop\TOKOBEDIA(FINAL)(2)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\andre\Desktop\TOKOBEDIA(FINAL)(2)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\andre\Desktop\TOKOBEDIA(FINAL)(2)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Xml.XPath.dll
+C:\Users\andre\Desktop\TOKOBEDIA(FINAL)(2)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\andre\Desktop\TOKOBEDIA(FINAL)(2)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\vbc.exe
+C:\Users\andre\Desktop\TOKOBEDIA(FINAL)(2)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\vbc.exe.config
+C:\Users\andre\Desktop\TOKOBEDIA(FINAL)(2)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\vbc.rsp
+C:\Users\andre\Desktop\TOKOBEDIA(FINAL)(2)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\VBCSCompiler.exe
+C:\Users\andre\Desktop\TOKOBEDIA(FINAL)(2)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\andre\Desktop\TOKOBEDIA(FINAL)(2)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\EntityFramework.dll
+C:\Users\andre\Desktop\TOKOBEDIA(FINAL)(2)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\EntityFramework.SqlServer.dll
+C:\Users\andre\Desktop\TOKOBEDIA(FINAL)(2)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\andre\Desktop\TOKOBEDIA(FINAL)(2)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\EntityFramework.xml
+C:\Users\andre\Desktop\TOKOBEDIA(FINAL)(2)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\EntityFramework.SqlServer.xml
+C:\Users\andre\Desktop\TOKOBEDIA(FINAL)(2)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\andre\Desktop\TOKOBEDIA(FINAL)(2)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\obj\Debug\TokoBeDia.csprojResolveAssemblyReference.cache
+C:\Users\andre\Desktop\TOKOBEDIA(FINAL)(2)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\obj\Debug\TokoBeDia.dll
+C:\Users\andre\Desktop\TOKOBEDIA(FINAL)(2)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\obj\Debug\TokoBeDia.pdb
+E:\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\TokoBeDia.dll.config
+E:\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\TokoBeDia.dll
+E:\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\TokoBeDia.pdb
+E:\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\csc.exe
+E:\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\csc.exe.config
+E:\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\csc.rsp
+E:\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\csi.exe
+E:\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\csi.exe.config
+E:\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\csi.rsp
+E:\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.Managed.Core.targets
+E:\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.AppContext.dll
+E:\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Collections.Immutable.dll
+E:\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Console.dll
+E:\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Globalization.Calendars.dll
+E:\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.IO.Compression.dll
+E:\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.IO.FileSystem.dll
+E:\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Net.Http.dll
+E:\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Net.Sockets.dll
+E:\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Reflection.Metadata.dll
+E:\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.ValueTuple.dll
+E:\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Xml.XmlDocument.dll
+E:\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Xml.XPath.dll
+E:\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\vbc.exe
+E:\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\vbc.exe.config
+E:\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\vbc.rsp
+E:\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\VBCSCompiler.exe
+E:\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\VBCSCompiler.exe.config
+E:\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\EntityFramework.dll
+E:\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\EntityFramework.SqlServer.dll
+E:\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\EntityFramework.xml
+E:\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\EntityFramework.SqlServer.xml
+E:\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\obj\Debug\TokoBeDia.csprojResolveAssemblyReference.cache
+E:\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\obj\Debug\TokoBeDia.dll
+E:\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\obj\Debug\TokoBeDia.pdb
+C:\Users\herya\Downloads\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\TokoBeDia.dll.config
+C:\Users\herya\Downloads\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\TokoBeDia.dll
+C:\Users\herya\Downloads\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\TokoBeDia.pdb
+C:\Users\herya\Downloads\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\csc.exe
+C:\Users\herya\Downloads\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\csc.exe.config
+C:\Users\herya\Downloads\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\csc.rsp
+C:\Users\herya\Downloads\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\csi.exe
+C:\Users\herya\Downloads\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\csi.exe.config
+C:\Users\herya\Downloads\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\csi.rsp
+C:\Users\herya\Downloads\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\herya\Downloads\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\herya\Downloads\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\herya\Downloads\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\herya\Downloads\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\herya\Downloads\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\herya\Downloads\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\herya\Downloads\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\herya\Downloads\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\herya\Downloads\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\herya\Downloads\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\herya\Downloads\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\herya\Downloads\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.AppContext.dll
+C:\Users\herya\Downloads\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\herya\Downloads\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Console.dll
+C:\Users\herya\Downloads\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\herya\Downloads\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\herya\Downloads\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\herya\Downloads\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\herya\Downloads\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.IO.Compression.dll
+C:\Users\herya\Downloads\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\herya\Downloads\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\herya\Downloads\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\herya\Downloads\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Net.Http.dll
+C:\Users\herya\Downloads\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Net.Sockets.dll
+C:\Users\herya\Downloads\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\herya\Downloads\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\herya\Downloads\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\herya\Downloads\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\herya\Downloads\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\herya\Downloads\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\herya\Downloads\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\herya\Downloads\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\herya\Downloads\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.ValueTuple.dll
+C:\Users\herya\Downloads\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\herya\Downloads\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\herya\Downloads\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Xml.XPath.dll
+C:\Users\herya\Downloads\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\herya\Downloads\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\vbc.exe
+C:\Users\herya\Downloads\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\vbc.exe.config
+C:\Users\herya\Downloads\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\vbc.rsp
+C:\Users\herya\Downloads\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\VBCSCompiler.exe
+C:\Users\herya\Downloads\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\herya\Downloads\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\EntityFramework.dll
+C:\Users\herya\Downloads\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\EntityFramework.SqlServer.dll
+C:\Users\herya\Downloads\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\herya\Downloads\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\EntityFramework.xml
+C:\Users\herya\Downloads\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\EntityFramework.SqlServer.xml
+C:\Users\herya\Downloads\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\herya\Downloads\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\obj\Debug\TokoBeDia.csprojAssemblyReference.cache
+C:\Users\herya\Downloads\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\obj\Debug\TokoBeDia.csproj.CopyComplete
+C:\Users\herya\Downloads\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\obj\Debug\TokoBeDia.dll
+C:\Users\herya\Downloads\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\obj\Debug\TokoBeDia.pdb
+C:\Users\andre\Desktop\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\obj\Debug\TokoBeDia.csprojResolveAssemblyReference.cache
+C:\Users\andre\Desktop\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\obj\Debug\TokoBeDia.dll
+C:\Users\andre\Desktop\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\obj\Debug\TokoBeDia.pdb
+F:\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\obj\Debug\TokoBeDia.csprojResolveAssemblyReference.cache
+F:\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\obj\Debug\TokoBeDia.dll
+F:\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\obj\Debug\TokoBeDia.pdb
+F:\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\TokoBeDia.dll.config
+F:\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\TokoBeDia.dll
+F:\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\TokoBeDia.pdb
+F:\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\csc.exe
+F:\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\csc.exe.config
+F:\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\csc.rsp
+F:\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\csi.exe
+F:\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\csi.exe.config
+F:\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\csi.rsp
+F:\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.Managed.Core.targets
+F:\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.AppContext.dll
+F:\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Collections.Immutable.dll
+F:\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Console.dll
+F:\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Globalization.Calendars.dll
+F:\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.IO.Compression.dll
+F:\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.IO.FileSystem.dll
+F:\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Net.Http.dll
+F:\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Net.Sockets.dll
+F:\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Reflection.Metadata.dll
+F:\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.ValueTuple.dll
+F:\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Xml.XmlDocument.dll
+F:\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Xml.XPath.dll
+F:\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\vbc.exe
+F:\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\vbc.exe.config
+F:\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\vbc.rsp
+F:\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\VBCSCompiler.exe
+F:\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\VBCSCompiler.exe.config
+F:\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\EntityFramework.dll
+F:\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\EntityFramework.SqlServer.dll
+F:\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\EntityFramework.xml
+F:\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\EntityFramework.SqlServer.xml
+F:\TOKOBEDIA(FINAL)\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Elizabeth Vanessa\OneDrive\Pictures\Documents\4th Semester\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\TokoBeDia.dll.config
+C:\Users\Elizabeth Vanessa\OneDrive\Pictures\Documents\4th Semester\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\TokoBeDia.dll
+C:\Users\Elizabeth Vanessa\OneDrive\Pictures\Documents\4th Semester\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\TokoBeDia.pdb
+C:\Users\Elizabeth Vanessa\OneDrive\Pictures\Documents\4th Semester\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\csc.exe
+C:\Users\Elizabeth Vanessa\OneDrive\Pictures\Documents\4th Semester\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\csc.exe.config
+C:\Users\Elizabeth Vanessa\OneDrive\Pictures\Documents\4th Semester\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\csc.rsp
+C:\Users\Elizabeth Vanessa\OneDrive\Pictures\Documents\4th Semester\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\csi.exe
+C:\Users\Elizabeth Vanessa\OneDrive\Pictures\Documents\4th Semester\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\csi.exe.config
+C:\Users\Elizabeth Vanessa\OneDrive\Pictures\Documents\4th Semester\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\csi.rsp
+C:\Users\Elizabeth Vanessa\OneDrive\Pictures\Documents\4th Semester\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Elizabeth Vanessa\OneDrive\Pictures\Documents\4th Semester\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Elizabeth Vanessa\OneDrive\Pictures\Documents\4th Semester\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Elizabeth Vanessa\OneDrive\Pictures\Documents\4th Semester\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Elizabeth Vanessa\OneDrive\Pictures\Documents\4th Semester\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Elizabeth Vanessa\OneDrive\Pictures\Documents\4th Semester\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Elizabeth Vanessa\OneDrive\Pictures\Documents\4th Semester\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Elizabeth Vanessa\OneDrive\Pictures\Documents\4th Semester\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Elizabeth Vanessa\OneDrive\Pictures\Documents\4th Semester\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Elizabeth Vanessa\OneDrive\Pictures\Documents\4th Semester\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Elizabeth Vanessa\OneDrive\Pictures\Documents\4th Semester\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Elizabeth Vanessa\OneDrive\Pictures\Documents\4th Semester\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Elizabeth Vanessa\OneDrive\Pictures\Documents\4th Semester\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.AppContext.dll
+C:\Users\Elizabeth Vanessa\OneDrive\Pictures\Documents\4th Semester\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Elizabeth Vanessa\OneDrive\Pictures\Documents\4th Semester\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Console.dll
+C:\Users\Elizabeth Vanessa\OneDrive\Pictures\Documents\4th Semester\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Elizabeth Vanessa\OneDrive\Pictures\Documents\4th Semester\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Elizabeth Vanessa\OneDrive\Pictures\Documents\4th Semester\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Elizabeth Vanessa\OneDrive\Pictures\Documents\4th Semester\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Elizabeth Vanessa\OneDrive\Pictures\Documents\4th Semester\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.IO.Compression.dll
+C:\Users\Elizabeth Vanessa\OneDrive\Pictures\Documents\4th Semester\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Elizabeth Vanessa\OneDrive\Pictures\Documents\4th Semester\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Elizabeth Vanessa\OneDrive\Pictures\Documents\4th Semester\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Elizabeth Vanessa\OneDrive\Pictures\Documents\4th Semester\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Net.Http.dll
+C:\Users\Elizabeth Vanessa\OneDrive\Pictures\Documents\4th Semester\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Elizabeth Vanessa\OneDrive\Pictures\Documents\4th Semester\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Elizabeth Vanessa\OneDrive\Pictures\Documents\4th Semester\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Elizabeth Vanessa\OneDrive\Pictures\Documents\4th Semester\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Elizabeth Vanessa\OneDrive\Pictures\Documents\4th Semester\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Elizabeth Vanessa\OneDrive\Pictures\Documents\4th Semester\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Elizabeth Vanessa\OneDrive\Pictures\Documents\4th Semester\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Elizabeth Vanessa\OneDrive\Pictures\Documents\4th Semester\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Elizabeth Vanessa\OneDrive\Pictures\Documents\4th Semester\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Elizabeth Vanessa\OneDrive\Pictures\Documents\4th Semester\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.ValueTuple.dll
+C:\Users\Elizabeth Vanessa\OneDrive\Pictures\Documents\4th Semester\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Elizabeth Vanessa\OneDrive\Pictures\Documents\4th Semester\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Elizabeth Vanessa\OneDrive\Pictures\Documents\4th Semester\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Elizabeth Vanessa\OneDrive\Pictures\Documents\4th Semester\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Elizabeth Vanessa\OneDrive\Pictures\Documents\4th Semester\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\vbc.exe
+C:\Users\Elizabeth Vanessa\OneDrive\Pictures\Documents\4th Semester\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\vbc.exe.config
+C:\Users\Elizabeth Vanessa\OneDrive\Pictures\Documents\4th Semester\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\vbc.rsp
+C:\Users\Elizabeth Vanessa\OneDrive\Pictures\Documents\4th Semester\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\VBCSCompiler.exe
+C:\Users\Elizabeth Vanessa\OneDrive\Pictures\Documents\4th Semester\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Elizabeth Vanessa\OneDrive\Pictures\Documents\4th Semester\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Elizabeth Vanessa\OneDrive\Pictures\Documents\4th Semester\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\CrystalDecisions.ReportSource.dll
+C:\Users\Elizabeth Vanessa\OneDrive\Pictures\Documents\4th Semester\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\CrystalDecisions.Shared.dll
+C:\Users\Elizabeth Vanessa\OneDrive\Pictures\Documents\4th Semester\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\CrystalDecisions.Web.dll
+C:\Users\Elizabeth Vanessa\OneDrive\Pictures\Documents\4th Semester\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\EntityFramework.dll
+C:\Users\Elizabeth Vanessa\OneDrive\Pictures\Documents\4th Semester\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\EntityFramework.SqlServer.dll
+C:\Users\Elizabeth Vanessa\OneDrive\Pictures\Documents\4th Semester\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Elizabeth Vanessa\OneDrive\Pictures\Documents\4th Semester\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Elizabeth Vanessa\OneDrive\Pictures\Documents\4th Semester\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Elizabeth Vanessa\OneDrive\Pictures\Documents\4th Semester\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Elizabeth Vanessa\OneDrive\Pictures\Documents\4th Semester\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Elizabeth Vanessa\OneDrive\Pictures\Documents\4th Semester\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Elizabeth Vanessa\OneDrive\Pictures\Documents\4th Semester\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Elizabeth Vanessa\OneDrive\Pictures\Documents\4th Semester\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Elizabeth Vanessa\OneDrive\Pictures\Documents\4th Semester\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Elizabeth Vanessa\OneDrive\Pictures\Documents\4th Semester\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Elizabeth Vanessa\OneDrive\Pictures\Documents\4th Semester\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Elizabeth Vanessa\OneDrive\Pictures\Documents\4th Semester\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Elizabeth Vanessa\OneDrive\Pictures\Documents\4th Semester\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Elizabeth Vanessa\OneDrive\Pictures\Documents\4th Semester\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\stdole.dll
+C:\Users\Elizabeth Vanessa\OneDrive\Pictures\Documents\4th Semester\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\EntityFramework.xml
+C:\Users\Elizabeth Vanessa\OneDrive\Pictures\Documents\4th Semester\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\EntityFramework.SqlServer.xml
+C:\Users\Elizabeth Vanessa\OneDrive\Pictures\Documents\4th Semester\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Elizabeth Vanessa\OneDrive\Pictures\Documents\4th Semester\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\obj\Debug\TokoBeDia.csprojResolveAssemblyReference.cache
+C:\Users\Elizabeth Vanessa\OneDrive\Pictures\Documents\4th Semester\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\obj\Debug\TokoBeDia.dll
+C:\Users\Elizabeth Vanessa\OneDrive\Pictures\Documents\4th Semester\TOKOBEDIA(FINAL)\TokoBeDia\TokoBeDia\obj\Debug\TokoBeDia.pdb

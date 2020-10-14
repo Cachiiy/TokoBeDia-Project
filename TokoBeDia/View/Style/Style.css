@@ -1,0 +1,76 @@
+﻿body {
+    background-color: white;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    width: 100%;
+    height: 400px;
+    display: flex;
+    background-color: white;
+    align-items: center;
+    justify-content: center;
+}
+
+footer {
+    width: 100%;
+    height: 100px;
+    background-color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+.nav-link {
+    color: forestgreen;
+    padding: 50px;
+}
+
+    .nav-link:hover {
+        color: darkseagreen;
+    }
+
+.nav {
+    background-color: white;
+}
+
+.header-text {
+    font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+    font-size: 32px;
+    color: forestgreen;
+    display: inline-block;
+}
+
+.footerText {
+    color: forestgreen;
+    display: inline-block;
+    font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+}
+
+.container {
+    margin: 0;
+    padding: 50px;
+}
+
+.a-back {
+    color: forestgreen;
+}
+
+    .a-back:hover {
+        color: darkseagreen;
+        text-decoration: none;
+    }
+
+.form-control:focus {
+    border-color: lightgreen;
+}
+
+.errorMsg {
+    visibility: hidden;
+    color: red;
+    font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+}
+
+#active {
+    background-color: whitesmoke;
+}
